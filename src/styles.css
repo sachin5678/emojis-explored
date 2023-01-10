@@ -1,8 +1,10 @@
+/* <style> @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;1,200&family=Oswald&family=Ubuntu&display=swap'); </style> */
+
 .App {
-  font-family: sans-serif;
+  font-family: "Kanit", sans-serif;
   text-align: center;
 }
 input {
-  padding: 1rem;
-  width: 80%;
+  padding: 1.5rem;
+  width: 40%;
 }
